@@ -1,5 +1,5 @@
 {% set name = "xarrayMannKendall" %}
-{% set version = "1.4.3" %}
+{% set version = "1.4.5" %}
 
 package:
   name: {{ name|lower }}
