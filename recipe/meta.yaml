@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/xarrayMannKendall-{{ version }}.tar.gz
-  sha256: 1efbf82584e2fe60fd64d0aacf3d6603a425525c1570a0b1bd57d0182a11b74b
+  sha256: 9a4e1f7144021c2235ac1d2f828d7b68a57b8bfb555c7ed3f1bb8314bd28cd8a
 
 build:
   noarch: python
